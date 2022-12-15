@@ -1,0 +1,11 @@
+At first, let's have look at the types of mechanics:
+
+Мovement mechanics. How will the character move? Will he run or fly?
+
+Combat system mechanics. Will there be enemies in the game? How can the character deal with them?
+
+Interaction mechanics. How will the payer interact with elements of the environment: can he pick up objects, or, for example, bump into them?
+
+
+page 2
+txt
