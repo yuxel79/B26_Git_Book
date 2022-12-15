@@ -9,3 +9,5 @@ Interaction mechanics. How will the payer interact with elements of the environm
 
 page 2
 txt
+
+more information
