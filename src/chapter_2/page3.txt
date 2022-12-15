@@ -1,2 +1,4 @@
 Create page 3
 new page is page 3
+
+new text
